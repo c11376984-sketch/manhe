@@ -1,0 +1,65 @@
+{
+  "format": "manhe-sources",
+  "formatVersion": 1,
+  "schemaVersion": 1,
+  "updatedAt": "2026-10-09T00:00:00+00:00",
+  "sources": {
+    "168": {
+      "baseUrl": "https://www.ziyuanxue.cn",
+      "searchUrl": "https://www.ziyuanxue.cn/Cimoc/hmx/api/queryHmxComic?keyWord={{key}}&page=1"
+    },
+    "169": {
+      "baseUrl": "http://d9b2fy3m5v.oktip.icu:40480",
+      "searchUrl": "http://d9b2fy3m5v.oktip.icu:40480/search",
+      "scriptUrl": "https://api.dsh65226.xyz/scripts/169.json"
+    },
+    "172": {
+      "baseUrl": "http://www.yueman1.cc",
+      "searchUrl": "http://www.yueman1.cc/template/skin4_20110501/images/m/html/",
+      "scriptUrl": "https://api.dsh65226.xyz/scripts/172.json"
+    },
+    "builtin_bzmh": {
+      "baseUrl": "https://bzmh.org",
+      "searchUrl": "https://bzmh.org/s/{{key}}",
+      "mirrors": [
+        "https://bzmh.org",
+        "https://baozimh.org"
+      ],
+      "chapterApi": "https://v2.apikk.top/api/v2/chapter/getinfo",
+      "detailApi": "https://v2.apikk.top/api/manga/get"
+    },
+    "builtin_bzmgcn": {
+      "baseUrl": "https://www.bzmgcn.com",
+      "searchUrl": "https://www.bzmgcn.com/search?q={{key}}",
+      "mirrors": [
+        "https://cn.dzmanga.com",
+        "https://cn.twbzmg.com",
+        "https://www.bzmgcn.com",
+        "https://www.twmanga.com"
+      ],
+      "chapterApi": "https://xuexi.nxxz.asia/cnm/api.php?action=jx&url=",
+      "chapterPageMirror": "https://appgb2-vdhk.baozimh.com"
+    },
+    "wmh": {
+      "baseUrl": "https://m.wmh1234.com",
+      "searchUrl": "https://m.wmh1234.com/search?key={{key}}",
+      "scriptUrl": "https://api.dsh65226.xyz/scripts/wmh.json"
+    },
+    "xfy": {
+      "displayName": "小肥羊",
+      "baseUrl": "https://gurgle-unvalued.qrqrs.com",
+      "mirrors": [
+        "https://gurgle-unvalued.qrqrs.com"
+      ],
+      "uid": "658450",
+      "token": "ea95489991aa0ef6645284b688c18316",
+      "deviceid": "9990000000000000001",
+      "scriptUrl": "https://cdn.jsdelivr.net/gh/manhe-hub/manhe@master/scripts/xfy.json"
+    },
+    "builtin_szt": {
+      "baseUrl": "https://api.bytedances.dev",
+      "searchUrl": "https://api.bytedances.dev/app/api/search/full?q={{key}}"
+    }
+  },
+  "signature": "rsa-sha256:P6zo9RaxYJhLsGELJSLPCCDD2JBFxB0LuQsvg7tE/zmDmDMpF+WbEdiSA+HYGLYRix6rEaIDI1xCRRpJtHoUW4/752AgMjaY7bbsjcToSs3tLcGTX0aEhc7UurLcWPr3jir5SSywt7F34rpWQyqHCaYRxwW26P0Hpbx/rGfGFXAUACwgh9Q4tPDGGJehnlxLYUV3ah9TCZpiS9OPWW+/W4xQZlAJD4DhQ1nu2J2Ur+pucmkml920bdFJ7jouTDsWew2ZA5/9AEQOrniDxZ7HQ8OprbZJyNhpu5IHEOXhi+/zkuPV7nLRtPnOlfJn51hCV8WpVr/0ogQTvar7odK/5tj3fTYy3zaBpxPH1/z9Yc198c7gUZ4M16THS7h6FvplH/4QojbLXW5epk7eKAggjTXvlHYqtt5nTd4+ttCORspmacWCzdQfLZEkx26Ps2zfb69LziQoMMdNlOCLHLTvKXG1esF2lewHzB6KsJSemVeGoXlMjb7iovKC4F8s2yzP"
+}
