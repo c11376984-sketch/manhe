@@ -1,65 +1,66 @@
-{
-  "format": "manhe-sources",
-  "formatVersion": 1,
-  "schemaVersion": 1,
-  "updatedAt": "2026-10-09T00:00:00+00:00",
-  "sources": {
-    "168": {
-      "baseUrl": "https://www.ziyuanxue.cn",
-      "searchUrl": "https://www.ziyuanxue.cn/Cimoc/hmx/api/queryHmxComic?keyWord={{key}}&page=1"
-    },
-    "169": {
-      "baseUrl": "http://d9b2fy3m5v.oktip.icu:40480",
-      "searchUrl": "http://d9b2fy3m5v.oktip.icu:40480/search",
-      "scriptUrl": "https://api.dsh65226.xyz/scripts/169.json"
-    },
-    "172": {
-      "baseUrl": "http://www.yueman1.cc",
-      "searchUrl": "http://www.yueman1.cc/template/skin4_20110501/images/m/html/",
-      "scriptUrl": "https://api.dsh65226.xyz/scripts/172.json"
-    },
-    "builtin_bzmh": {
-      "baseUrl": "https://bzmh.org",
-      "searchUrl": "https://bzmh.org/s/{{key}}",
-      "mirrors": [
-        "https://bzmh.org",
-        "https://baozimh.org"
-      ],
-      "chapterApi": "https://v2.apikk.top/api/v2/chapter/getinfo",
-      "detailApi": "https://v2.apikk.top/api/manga/get"
-    },
-    "builtin_bzmgcn": {
-      "baseUrl": "https://www.bzmgcn.com",
-      "searchUrl": "https://www.bzmgcn.com/search?q={{key}}",
-      "mirrors": [
-        "https://cn.dzmanga.com",
-        "https://cn.twbzmg.com",
-        "https://www.bzmgcn.com",
-        "https://www.twmanga.com"
-      ],
-      "chapterApi": "https://xuexi.nxxz.asia/cnm/api.php?action=jx&url=",
-      "chapterPageMirror": "https://appgb2-vdhk.baozimh.com"
-    },
-    "wmh": {
-      "baseUrl": "https://m.wmh1234.com",
-      "searchUrl": "https://m.wmh1234.com/search?key={{key}}",
-      "scriptUrl": "https://api.dsh65226.xyz/scripts/wmh.json"
-    },
-    "xfy": {
-      "displayName": "Â∞èËÇ•Áæä",
-      "baseUrl": "https://gurgle-unvalued.qrqrs.com",
-      "mirrors": [
-        "https://gurgle-unvalued.qrqrs.com"
-      ],
-      "uid": "658450",
-      "token": "ea95489991aa0ef6645284b688c18316",
-      "deviceid": "9990000000000000001",
-      "scriptUrl": "https://cdn.jsdelivr.net/gh/manhe-hub/manhe@master/scripts/xfy.json"
-    },
-    "builtin_szt": {
-      "baseUrl": "https://api.bytedances.dev",
-      "searchUrl": "https://api.bytedances.dev/app/api/search/full?q={{key}}"
-    }
-  },
-  "signature": "rsa-sha256:P6zo9RaxYJhLsGELJSLPCCDD2JBFxB0LuQsvg7tE/zmDmDMpF+WbEdiSA+HYGLYRix6rEaIDI1xCRRpJtHoUW4/752AgMjaY7bbsjcToSs3tLcGTX0aEhc7UurLcWPr3jir5SSywt7F34rpWQyqHCaYRxwW26P0Hpbx/rGfGFXAUACwgh9Q4tPDGGJehnlxLYUV3ah9TCZpiS9OPWW+/W4xQZlAJD4DhQ1nu2J2Ur+pucmkml920bdFJ7jouTDsWew2ZA5/9AEQOrniDxZ7HQ8OprbZJyNhpu5IHEOXhi+/zkuPV7nLRtPnOlfJn51hCV8WpVr/0ogQTvar7odK/5tj3fTYy3zaBpxPH1/z9Yc198c7gUZ4M16THS7h6FvplH/4QojbLXW5epk7eKAggjTXvlHYqtt5nTd4+ttCORspmacWCzdQfLZEkx26Ps2zfb69LziQoMMdNlOCLHLTvKXG1esF2lewHzB6KsJSemVeGoXlMjb7iovKC4F8s2yzP"
+
 }
+"Pzy2s8F4CKvoi7bjMlXoGeVmeSJsK6BzHwel2Fse1GXKvTLHLCOlNdMMoQizL96bfz2sP62xkEZLfQdzCWcampsROCtt+4dTn5ttqYHlvXTjggAKe7kpe5WXLbjoQ4/HlpvF6h7SHT61M4ZUg7c891cY9z/1HPxpBaz3yYTf3jt5/Kdo7ravTQgo0/rVpW8VCh15nJflOnPtRLn7VPukz/+ihXOEHI5uphNyJZbrpO8QH7ZxDinrOQEA9/5AZ2weWsDTuoj7JFdb029lmkmcup+rU2J2un1QhD4DJAlZQx4W/+WWPO9SipZCT9ha3VUYLxlnheJGGDPt4Q9hgwCAUAXFGfGr/xbpH0P62WwxRYaCHqyQWpr43F7twySS5rij3rPWcLruU7chEa0XTGcLt3sSoTcjsbb7YajMgA257/4WUoHtJpRRCx1IDIaEr6xiRYLGYH+ASidEbW+FpMDmDmz/Et7gvsQuL0BxFBJ2DDCCPLSJLEGsLhJYxaR9oz6P:652ahs-asr" :"erutangis"  
+,}  
+}    
+"}}yek{{=q?lluf/hcraes/ipa/ppa/ved.secnadetyb.ipa//:sptth" :"lrUhcraes"      
+,"ved.secnadetyb.ipa//:sptth" :"lrUesab"      
+{ :"tzs_nitliub"    
+,}    
+"nosj.yfx/stpircs/retsam@ehnam/buh-ehnam/hg/ten.rviledsj.ndc//:sptth" :"lrUtpircs"      
+,"1000000000000000999" :"diecived"      
+,"61381c886b4825466fe0aa19998459ae" :"nekot"      
+,"054856" :"diu"      
+,]      
+"moc.srqrq.deulavnu-elgrug//:sptth"        
+[ :"srorrim"      
+,"moc.srqrq.deulavnu-elgrug//:sptth" :"lrUesab"      
+,"äæÁ•ÇËè∞Â" :"emaNyalpsid"      
+{ :"yfx"    
+,}    
+"nosj.hmw/stpircs/zyx.62256hsd.ipa//:sptth" :"lrUtpircs"      
+,"}}yek{{=yek?hcraes/moc.4321hmw.m//:sptth" :"lrUhcraes"      
+,"moc.4321hmw.m//:sptth" :"lrUesab"      
+{ :"hmw"    
+,}    
+"moc.hmizoab.khdv-2bgppa//:sptth" :"rorriMegaPretpahc"      
+,"=lru&xj=noitca?php.ipa/mnc/aisa.zxxn.ixeux//:sptth" :"ipAretpahc"      
+,]      
+"moc.agnamwt.www//:sptth"        
+,"moc.ncgmzb.www//:sptth"        
+,"moc.gmzbwt.nc//:sptth"        
+,"moc.agnamzd.nc//:sptth"        
+[ :"srorrim"      
+,"}}yek{{=q?hcraes/moc.ncgmzb.www//:sptth" :"lrUhcraes"      
+,"moc.ncgmzb.www//:sptth" :"lrUesab"      
+{ :"ncgmzb_nitliub"    
+,}    
+"teg/agnam/ipa/pot.kkipa.2v//:sptth" :"ipAliated"      
+,"ofniteg/retpahc/2v/ipa/pot.kkipa.2v//:sptth" :"ipAretpahc"      
+,]      
+"gro.hmizoab//:sptth"        
+,"gro.hmzb//:sptth"        
+[ :"srorrim"      
+,"}}yek{{/s/gro.hmzb//:sptth" :"lrUhcraes"      
+,"gro.hmzb//:sptth" :"lrUesab"      
+{ :"hmzb_nitliub"    
+,}    
+"nosj.271/stpircs/zyx.62256hsd.ipa//:sptth" :"lrUtpircs"      
+,"/lmth/m/segami/10501102_4niks/etalpmet/cc.1nameuy.www//:ptth" :"lrUhcraes"      
+,"cc.1nameuy.www//:ptth" :"lrUesab"      
+{ :"271"    
+,}    
+"nosj.961/stpircs/zyx.62256hsd.ipa//:sptth" :"lrUtpircs"      
+,"hcraes/08404:uci.pitko.v5m3yf2b9d//:ptth" :"lrUhcraes"      
+,"08404:uci.pitko.v5m3yf2b9d//:ptth" :"lrUesab"      
+{ :"961"    
+,}    
+"1=egap&}}yek{{=droWyek?cimoCxmHyreuq/ipa/xmh/comiC/nc.euxnauyiz.www//:sptth" :"lrUhcraes"      
+,"nc.euxnauyiz.www//:sptth" :"lrUesab"      
+{ :"861"    
+{ :"secruos"  
+,"00:00+00:00:00T90-01-6202" :"tAdetadpu"  
+,1 :"noisreVamehcs"  
+,1 :"noisreVtamrof"  
+,"secruos-ehnam" :"tamrof"  
+{
