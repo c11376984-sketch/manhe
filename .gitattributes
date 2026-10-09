@@ -1,3 +1,4 @@
-# sources.json 是"首尾翻转"的字节流（N172）：禁止 git 做行尾转换与文本 diff，
-# 否则检出/提交时 LF<->CRLF 转换会破坏文件（App 端将无法还原）。
+# sources.json 是二进制加密封装（N174，AES-256-GCM 容器）：禁止 git 做行尾转换与文本 diff，
+# 否则检出/提交时 LF<->CRLF 转换会破坏文件（App 端将无法解密）。
+# （sources.bundle 同为二进制，git 会自动识别，无需显式声明。）
 sources.json -text -diff
